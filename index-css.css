@@ -1,1 +1,25 @@
-ECHO is on.
+body {
+    background-image: url(bg.jpg);
+}
+
+h1 {
+    color: orangered;
+    font-family:"Cooper Black";
+    text-shadow: 2px 2px #000000;
+}
+
+h3 {
+    text-align: center;
+    border:2px solid palevioletred;
+    font-family:"Cooper Black";
+    -moz-border-radius:8px;
+    -webkit-border-radius:8px;	
+    border-radius:8px;
+    background-color:#F5FCFF;
+    max-width:500px;
+    margin:auto;
+}
+
+img {
+    border: 5px solid pink;
+}
