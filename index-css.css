@@ -23,3 +23,19 @@ h3 {
 img {
     border: 5px solid pink;
 }
+
+fave {
+    font-size: 40px;
+    color:rgb(255, 239, 64);
+    font-family:"Cooper Black";
+    text-shadow: 2px 2px #000000;
+
+}
+
+favorites {
+    text-align: justify;
+    text-justify: inter-word;
+    background-color:#F5FCFF;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
